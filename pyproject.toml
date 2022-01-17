@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "packaging_tutorial"
-version = "0.6.1"
+version = "0.1.0"
 description = ""
 authors = ["Gabriel Pedrosa <gabriel@alude.com.br>"]
 packages = [
